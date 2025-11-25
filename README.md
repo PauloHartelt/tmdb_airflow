@@ -80,7 +80,7 @@ tmdb-etl-project/
 ├── airflow/
 │   ├── dags/
 │   │   └── tmdb_dag.py
-│   ├── logs/...
+│   ├── logs/
 │   ├── plugins/
 │   └── scripts/
 │       ├── __init__.py
