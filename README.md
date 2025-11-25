@@ -33,6 +33,8 @@ O objetivo é processar dados do **The Movie Database (TMDB)**, armazenados inic
 - Dimensões persistentes.
 - Fatos com append incremental.
 
+<img width="1060" height="691" alt="Diagrama do projeto drawio" src="https://github.com/user-attachments/assets/edd6be91-f8cc-4ffc-9a65-95b8ef717919" />
+
 ---
 
 ## 🛠️ Serviços Docker Utilizados
