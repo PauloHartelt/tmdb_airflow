@@ -105,6 +105,5 @@ tmdb-etl-project/
 - Camadas Bronze/Silver/Gold  
 - Modelo dimensional completo  
 - Carga incremental  
-- Execução diária  
 - Logging estruturado
 - Dados sendo consumidos no Power BI  
