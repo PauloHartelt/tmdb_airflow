@@ -49,19 +49,21 @@ Definidos em `docker-compose.yml`.
 
 ## ▶️ Como executar o projeto
 
-### **1. Instalar dependências**
+### **1. Extraia o arquivo TMDB_movie_dataset_v11 na pasta data_sources para a mesma pasta**
+
+### **2. Instalar dependências**
 ```bash
 pip install -r requirements.txt
 ```
 
-### **2. Iniciar Docker Desktop**
+### **3. Iniciar Docker Desktop**
 
-### **3. Subir containers**
+### **4. Subir containers**
 ```bash
 docker compose up
 ```
 
-### **4. Acessar o Airflow**
+### **5. Acessar o Airflow**
 ```
 http://localhost:8080/login/
 ```
